@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/nav_home" android:icon="@mipmap/home"/>
+    <item android:title="@string/nav_myinfo" android:icon="@mipmap/myinformation"/>
+    <item android:title="@string/nav_guess_like" android:icon="@mipmap/guess_like"/>
+    <item android:title="@string/nav_movie" android:icon="@mipmap/movie"/>
+    <item android:title="@string/nav_music" android:icon="@mipmap/music"/>
+
+    <item android:title="@string/nav_more">
+        <menu>
+            <item android:title="@string/nav_about" android:icon="@mipmap/about"/>
+            <item android:title="@string/nav_unregister" android:icon="@mipmap/out"/>
+        </menu>
+    </item>
+
+</menu>

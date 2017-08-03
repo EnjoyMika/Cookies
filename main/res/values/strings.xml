@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_myinfo">我的信息</string>
+    <string name="nav_guess_like">猜你喜欢</string>
+    <string name="nav_movie">电影</string>
+    <string name="nav_music">音乐</string>
+    <string name="nav_about">关于</string>
+    <string name="nav_unregister">注销</string>
+    <string name="nav_more">更多</string>
+</resources>
